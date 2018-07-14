@@ -6,4 +6,6 @@ layout: home
 nav-title: Home
 ---
 
+This is the index page for `jekyll-theme-mutter` demonstration!
+
 Did you see the navigation bar? Click **Archives** fron there to see your post list.

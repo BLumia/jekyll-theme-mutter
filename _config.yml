@@ -1,6 +1,7 @@
 title: Your awesome title
 subtitle: Your site's subtitle
 email: your-email@example.com
+footer-text: <a href="https://github.com/BLumia/jekyll-theme-mutter">Mutter</a> theme build with <i class="i i-heart"></i> on <i class="i i-octodex"></i>
 footer-copyright: Your Name &copy; Year
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
