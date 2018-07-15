@@ -26,7 +26,25 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here. Describe available layouts, includes and/or assets.
+You can directly take a look at the [jekyll-theme-mutter](https://github.com/BLumia/jekyll-theme-mutter)'s source code so you can check out some example usage about how we get [the example site](https://blumia.github.io/jekyll-theme-mutter/) works.
+
+### Layouts
+
+Refers to files within the `_layouts` directory, that define the markup for your theme.
+
+ - default.html — The base layout that lays the foundation for subsequent layouts. The derived layouts inject their contents into this file at the line that says `{{ content }}` and are linked to this file via FrontMatter declaration layout: default.
+ - `home.html` — Don't use it.
+ - `page.html` — The layout for your documents that contain FrontMatter, but are not posts.
+ - `post.html` — The layout for your posts.
+ - `posts.html` — The layout for your post list. 
+
+### Customization
+
+We got some useful attr for customization the site.
+
+ - `header_pages` - You probably want some pages display in the navbar, then provide a list in your `_config.yml`
+ - `nav-title` - If you use the navigation bar, Set this in front-matter so the value you've set will be display in the navbar instead of the page title.
+ - `subtitle` - All web pages in this theme got a subtitle, you can set a subtitle in every single page and also in `_config.yml` for a global default subtitle.
 
 ## Contributing
 

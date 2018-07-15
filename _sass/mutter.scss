@@ -126,6 +126,7 @@ code {
   color: #EBE7F5;
   padding: 2px 4px;
   font-size: 90%;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 ul, ol {
@@ -297,12 +298,12 @@ header > {
   align-content: center;
 }
 
-.flex-container > h1, h2 {
+.flex-container h1, h2 {
   text-align: left !important;
   text-align: center;
 }
 
-.flex-container > {
+.flex-container {
   p {
     text-align: left !important;
     font-weight: lighter;

@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+nav-title: About
+title: About Mutter Theme
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[<i class="bl-icon i i-repo"></i> GitHub](https://github.com/BLumia/jekyll-theme-mutter)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Whatever you are looking for a nice-looking jekyll theme, or just wanna check it out what this project is, welcome to **Mutter** -- the jekyll theme :D [^1]
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
+You can find the source code for `jekyll-theme-mutter` at GitHub:
+[BLumia](https://github.com/BLumia/) /
+[jekyll-theme-mutter](https://github.com/BLumia/jekyll-theme-mutter)
 
-[jekyll-organization]: https://github.com/jekyll
+[^1]: **Mutter** is acutally a lightweight scaffold for blogging and creating web pages I wrote in PHP, but for some special needed I have to use a static site generater so I created this jekyll theme.
